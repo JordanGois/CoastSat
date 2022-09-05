@@ -19,7 +19,7 @@ import pandas as pd
 from coastsat import SDS_download, SDS_preprocess, SDS_shoreline, SDS_tools, SDS_transects
 
 # region of interest (longitude, latitude in WGS84)
-polygon = [[[151.301454, -33.700754],
+polygon = [[[151.3085, -33.700754],
             [151.311453, -33.702075],
             [151.307237, -33.739761],
             [151.294220, -33.736329],
